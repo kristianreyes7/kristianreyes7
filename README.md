@@ -1,7 +1,4 @@
 ### Hi there 👋
-- 🔭 I’m currently working on multiple projects and will have them posted shortly.  
-- 📫 I can be reached at:
-  - Kristianreyes7@icloud.com
 <!--
 **kristianreyes7/kristianreyes7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
